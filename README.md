@@ -1,27 +1,36 @@
-# module 11 - React Basics / Quizzical (SOLO PROJECT)
+![Quizzical Demo Gif](https://raw.githubusercontent.com/pedromorelli96/Quizzical/main/QuizzicalDemo.gif)
 
-### Check it out here (deployed on netlify): https://grand-lily-5296d1.netlify.app/
+# Quizzical
+
+Quizzical is web-based quiz game that pulls data from the [Open Trivia Database](https://opentdb.com/) and allows players to test their knowledge on many different topics with multiple choice questions!
 
 <br />
 
-# co24f49bea8aace7c174082c8
+## 📁 Access the project
 
-Quick start:
+### Check it out here: [Click this link to see the project in action](https://grand-lily-5296d1.netlify.app/)
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-```
+<br />
 
-## Development
+## ✔️ Key learnings
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+-   `React`
+    -   `custom components`
+    -   `props`
+    -   `mapping data`
+    -   `conditional rendering`
+    -   `event handlers`
+    -   `hooks`
+        -   `useState`
+        -   `useEffect`
+-   `CSS`
+    -   `responsive design`
 
-```
-$ yarn watch # npm run watch
-```
+<br />
 
-## About Scrimba
+## 📚 About Scrimba
+
+This project was developed as part of the Frontend Career Path @ Scrimba.
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
 If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
